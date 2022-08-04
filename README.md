@@ -23,3 +23,6 @@ Figma | Photoshop | Illustrator | After Effect
 
 👀 My recent curiosities are Three.js and GSAP animation library!
 
+
+[Linkedin](https://www.linkedin.com/in/yukayamamoto0820/) | [INSTAGRAM](https://www.instagram.com/yukayama___)
+
