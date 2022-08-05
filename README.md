@@ -8,16 +8,20 @@ Currently I'm looking for a full-time position as a Front-end Developer.
 
 ### 📌My Skillset
 
-### Front-end
+**Front-end**
+
 Angular | Typescript | Javascript | CSS3 | HTML5
 
-### Back-end
+**Back-end**
+
 Node.js | MySQL | Strapi ( Headless CMS ) | PHP
 
-### Tool
+**Tool**
+
 Wordpress | Sass |Boostrap
 
-### Design
+**Design**
+
 Figma | Photoshop | Illustrator | After Effect
 
 
