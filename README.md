@@ -18,7 +18,7 @@ Node.js | MySQL | Strapi ( Headless CMS ) | PHP
 
 **Tool**
 
-Wordpress | Sass |Boostrap
+Wordpress | Sass | Boostrap
 
 **Design**
 
