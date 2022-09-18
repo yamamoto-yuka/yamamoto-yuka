@@ -3,11 +3,13 @@ Hello!👋  My name is Yuka Yamamoto.
 I am a front-end developer who enjoys everything from coding to design!
 <br>
 <br>
+
 <a href="https://www.instagram.com/p/Chi_sQogCxC/">
-<img src="https://media.giphy.com/media/dX5ifqAW5gvPcJnhG4/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/H2jlzXeKplMNusg8y9/giphy.gif" width="100%">
 </a>
 <br>
 <br>
+
 ### 📌My Skillset
 
 **Front-end**
@@ -37,8 +39,6 @@ Figma | Photoshop | Illustrator | After Effect
 [Linkedin](https://www.linkedin.com/in/yukayamamoto0820/) | [Instagram](https://www.instagram.com/yukayama___) |
 [GitHub City](https://honzaap.github.io/GithubCity/?name=yamamoto-yuka&year=2022)
 
-
-<br>
 <br>
 <a href="https://github.com/yuka-yamamoto">
 		<img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamamoto-yuka&theme=dracula" />
