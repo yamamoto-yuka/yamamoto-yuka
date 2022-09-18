@@ -40,10 +40,10 @@ Figma | Photoshop | Illustrator | After Effect
 [GitHub City](https://honzaap.github.io/GithubCity/?name=yamamoto-yuka&year=2022)
 
 <br>
-<a href="https://github.com/yuka-yamamoto">
+<a href="https://github.com/yamamoto-yuka">
 		<img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamamoto-yuka&theme=dracula" />
 	</a>
-	<a href="https://github.com/yuka-yamamoto">
+	<a href="https://github.com/yamamoto-yuka">
 		<img align="left"  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamamoto-yuka&layout=compact&theme=dracula" />
 	</a>
 	
