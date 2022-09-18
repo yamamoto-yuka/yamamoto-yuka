@@ -2,8 +2,6 @@ Hello!👋  My name is Yuka Yamamoto.
 
 I am a front-end developer who enjoys everything from coding to design!
 
-Currently I'm looking for a full-time position as a Front-end Developer.
-
 
 
 ### 📌My Skillset
