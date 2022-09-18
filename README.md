@@ -25,6 +25,11 @@ Figma | Photoshop | Illustrator | After Effect
 
 👀 My recent curiosities are Three.js and GSAP animation library!
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamamoto-yuka&theme=dracula
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=yamamoto-yuka&layout=compact&theme=dracula
+
+[GitHub City](https://honzaap.github.io/GithubCity/?name=yamamoto-yuka&year=2022)
 
 [Linkedin](https://www.linkedin.com/in/yukayamamoto0820/) | [Instagram](https://www.instagram.com/yukayama___)
 
