@@ -1,6 +1,6 @@
 Hello!👋  My name is Yuka Yamamoto. 
 
-I am a front-end developer who enjoys everything from coding to design!
+I like everything from coding to design!
 <br>
 <br>
 
