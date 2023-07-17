@@ -16,10 +16,6 @@ I like everything from coding to design!
 
 Angular | Typescript | Javascript | CSS3 | HTML5
 
-**Back-end**
-
-Node.js | MySQL | Strapi ( Headless CMS ) | PHP
-
 **Tool**
 
 Wordpress | Sass | Boostrap
