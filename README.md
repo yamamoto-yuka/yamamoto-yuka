@@ -37,7 +37,7 @@ Figma | Photoshop | Illustrator | After Effect
 
 <br>
 	<a href="https://github.com/yamamoto-yuka">
-		<img align="left"  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamamoto-yuka&layout=compact&theme=dracula" />
+		<img align="left"  height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yamamoto-yuka&layout=compact&theme=dracula" />
 	</a>
 <a href="https://github.com/yamamoto-yuka">
 		<img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamamoto-yuka&theme=dracula" />
