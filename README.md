@@ -29,7 +29,7 @@ Figma | Photoshop | Illustrator | After Effect
 
 
 
-[Linkedin](https://www.linkedin.com/in/yukayamamoto0820/) |
+[Linkedin](https://www.linkedin.com/in/yukayamamoto0820/)
 
 	
 
