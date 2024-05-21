@@ -14,7 +14,7 @@ I like everything from coding to design!
 
 **Front-end**
 
-Angular | Typescript | Javascript | CSS3 | HTML5
+Angular | CSS3 | HTML5
 
 **Tool**
 
@@ -25,14 +25,11 @@ Wordpress | Sass | Boostrap
 Figma | Photoshop | Illustrator | After Effect
 
 
-👀 My recent curiosities are Three.js and GSAP animation library!
 
 
 
 
-
-
-[Linkedin](https://www.linkedin.com/in/yukayamamoto0820/) | [Instagram](https://www.instagram.com/yukayama___) |
+[Linkedin](https://www.linkedin.com/in/yukayamamoto0820/) |
 [GitHub City](https://honzaap.github.io/GithubCity/?name=yamamoto-yuka&year=2022)
 
 <br>
